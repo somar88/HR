@@ -6,7 +6,7 @@ public class Controler {
 		System.out.println("testing GITHUB");
 		System.out.println("bitch plese!");
 		
-		
+		System.out.println("I love pico!");
 		
 	}
 
